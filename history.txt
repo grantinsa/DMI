@@ -76,3 +76,87 @@
    76  ls -la
    77  history
    78  history > history.txt
+   79  ls -la
+   80  cat history.txt 
+   81  git add .
+   82  git commit -m "20170913_14_40"
+   83  git push origin master
+   84  history
+   85  pwd
+   86  mkdir apakshdarbi
+   87  ls -l
+   88  cd apakshdarbi/
+   89  ls -la
+   90  history > vesture.txt
+   91  ls -la
+   92  cd ..
+   93  ls -l
+   94  rmdir apakshdarbi/
+   95  man rmdir
+   96  rm apakshdarbi/
+   97  man rm
+   98  rm -rf apakshdarbi/
+   99  -la
+  100  ls -la
+  101  cd /
+  102  ls
+  103  rm dev
+  104  rm -rf dev
+  105  rm dev1
+  106  cd
+  107  pwd
+  108  ls -l
+  109  cd darbi/
+  110  cd ~
+  111  echo Linux nerds
+  112  x=10
+  113  echo The value of variable x = $x
+  114  echo -e Linux\bnerds
+  115  -e Linux \b Nerds
+  116  echo -e Linux \bNerds
+  117  echo -e \nis \na \nja
+  118  echo -e "Jaa \nja \nja"
+  119  echo -e "Tecmint \bis \a"
+  120  echo -e "Tecmint \tis \ta \tjaa"
+  121  echo -e "\n\tTecmint \n\tis \n\ta"
+  122  echo -e "vTecmint \vis \va \vcom"
+  123  echo -e "\n\vTecmint \n\vis \n\va \n\vcom"
+  124  echo -e "Tecmint \ris a  com"
+  125  echo -e "Tecmin is \ca com"
+  126  echo -n "Tecmint is a com"
+  127  echo * 103.pdf
+  128  echo *.jpeg
+  129  echo "Test Page" > testpage
+  130  echo *
+  131  echo *.txt
+  132  echo "Teksts"
+  133  echo "Teksts" > a.txt
+  134  ls -la
+  135  cd darbi
+  136  ls -l
+  137  cat a.txt
+  138  man ls
+  139  man ls > ls_komandas_apraksts
+  140  ls -l
+  141  cat ls_komandas_apraksts
+  142  iwconfig
+  143  ps
+  144  lshw
+  145  +   57  cat history.tx
+  146  ls -l
+  147  pwd
+  148  cd ~
+  149  ifconfig
+  150  cd /
+  151  mv ~/darbi/ls_komandas_apraksts ~/
+  152  cd
+  153  ls -l
+  154  cd darbi/
+  155  ls -l
+  156  mc
+  157  pwd
+  158  cd darbi
+  159  ls -la
+  160  git add .
+  161  ls -la
+  162  history > history.txt
