@@ -1,0 +1,78 @@
+    1  VirtualBox --startvm XP
+    2  firefox &
+    3  uname -r
+    4  lsb_release
+    5  cat /etc/*-release
+    6  shell?
+    7  pwd
+    8  whoami
+    9  who
+   10  ls
+   11  cd
+   12  who
+   13  history
+   14  man
+   15  lsb_release
+   16  pwd
+   17  who
+   18  ls
+   19  cd Documents
+   20  cd..
+   21  pwd
+   22  ls
+   23  cd
+   24  pwd
+   25  echo $0
+   26  n
+   27  cat
+   28  ls
+   29  pwd
+   30  who
+   31  echo $0
+   32  ifconfig 
+   33  ls
+   34  man ls
+   35  ls -l
+   36  ls -a
+   37  ls -la
+   38  cd Documents
+   39  ls
+   40  ls -la
+   41  cd ..
+   42  pwd
+   43  cd ..
+   44  pwd
+   45  ~
+   46  cd ..
+   47  cd /home/user
+   48  cd
+   49  pwd
+   50  mkdir darbi
+   51  ls -l
+   52  cd darbi/
+   53  pwd
+   54  history
+   55  > history.txt
+   56  ls -la
+   57  cat history.txt
+   58  cat history
+   59  cat history.txt
+   60  history
+   61  > history.txt
+   62  cat history.txt
+   63  pwd
+   64  -la
+   65  ls -la
+   66  git init
+   67  git add .
+   68  git config --global user.name rodzhers69@gmail.com
+   69  ls -la
+   70  git commit -m "20170913_14_00"
+   71  git config --global user.email rodzhers69@gmail.com
+   72  git remote add origin https://github.com/grantinsa/DMI.git
+   73  git push origin master
+   74  chromium-browser 
+   75  pwd
+   76  ls -la
+   77  history
+   78  history > history.txt
