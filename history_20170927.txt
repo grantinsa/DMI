@@ -1,0 +1,79 @@
+    1  VirtualBox --startvm XP
+    2  git clone https://github.com/grantinsa/DMI.git
+    3  ls -l
+    4  cd DMI
+    5  ls -la
+    6  pwd
+    7  _ALI
+    8  variable_name=variable_value
+    9  NAME="dddd"
+   10  $echo $$
+   11  #!/bin/sh
+   12  NAME="dddd"
+   13  echo $NAME
+   14  #!/bin/sh
+   15  NAME="dddd"
+   16  readonly NAME
+   17  NAME="Jaaa"
+   18  unset variable_name
+   19  NAME="dddd"
+   20  unset NAME
+   21  echo $NAME
+   22  $echo $$
+   23  echo "File Name: $0"
+   24  echo "First Parameter : $1"
+   25  echo "Second Parameter : $2"
+   26  echo "Quoted Values: $@"
+   27  echo $Quoted Values: $*"
+   28  s;s;ss
+   29  echo "Total Number of Parameters : $#"
+   30  ;e;;;
+   31  for TOKEN in $*; do echo $TOKEN; done
+   32  do
+   33  $?
+   34  NAME01="Ja1"
+   35  NAME02="Ja2"
+   36  NAME03="Ja3"
+   37  array_name[index]=value
+   38  val=`expr 2 + 2`
+   39  echo "Total value : $val"
+   40  val=`expr 494294 + 3103013`
+   41  echo "Total value : $val"
+   42  `expr $a + $b` 
+   43  NAME="Vaards"
+   44  mainigais_1=10
+   45  echo $mainigais_1
+   46  nano shell_examples.sh
+   47  ls -la
+   48  cd DMA
+   49  cd DMI
+   50  ls -la
+   51  nano shell_examples.sh
+   52  ls -la
+   53  pwd
+   54  cat shell_examples.sh
+   55  pwd
+   56  PATH=$PATH:~/DMI
+   57  echo $PATH
+   58  shell_examples.sh
+   59  chmod 744 shell_examples.sh
+   60  ls -la
+   61  shell_examples.sh
+   62  cat shell_examples.sh
+   63  ls - la
+   64  ls -la
+   65  nano shell_examples.sh
+   66  ls -la
+   67  cat shell_examples.sh 
+   68  nano shell_examples.sh 
+   69  ls -la
+   70  cat shell_examples.sh 
+   71  shell_examples.sh 
+   72  nano shell_examples.sh 
+   73  shell_examples.sh 
+   74  nano shell_examples.sh 
+   75  shell_examples.sh 
+   76  cat shell_examples.sh 
+   77  ls -la
+   78  pwd
+   79  history > history_20170926.txt
