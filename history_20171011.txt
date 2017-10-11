@@ -1,0 +1,43 @@
+    1  VirtualBox --startvm XP
+    2  & firefox
+    3  firefox &
+    4  pwd
+    5  ls -l
+    6  git clone https://github.com/grantinsa/DMI.git
+    7  cd DMI
+    8  ls -la
+    9  #!/bin/sh
+   10  val=`expr 2 + 2`
+   11  echo "Total value : $val"
+   12  `expr $a - $b`
+   13  `expr $a + $b`
+   14  echo "Total value : $val"
+   15  -eq
+   16  nano shell_examples.sh 
+   17  shell_examples.sh
+   18  sh shell_examples.sh
+   19  nano shell_examples.sh 
+   20  sh shell_examples.sh 
+   21  nano shell_examples.sh 
+   22  sh shell_examples.sh 
+   23  nano shell_examples.sh 
+   24  sh shell_examples.sh 
+   25  nano shell_examples.sh 
+   26  sh shell_examples.sh 
+   27  nano shell_examples.sh 
+   28  sh shell_examples.sh 
+   29  nano shell_examples.sh 
+   30  sh shell_examples.sh 
+   31  nano shell_examples.sh 
+   32  sh shell_examples.sh 
+   33  nano shell_examples.sh 
+   34  sh shell_examples.sh 
+   35  nano shell_examples.sh 
+   36  sh shell_examples.sh 
+   37  nano shell_examples.sh 
+   38  sh shell_examples.sh 
+   39  nano shell_examples.sh 
+   40  sh shell_examples.sh 
+   41  nano git-upload
+   42  nano git-upload 
+   43  history > history_20171011.txt

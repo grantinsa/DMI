@@ -1,16 +1,55 @@
 #!/bin/bash
+#9.piemērs - operācijas ar mainīgajiem
+a=56
+b=32
+val31=`expr $a + $b`
+echo "$a + $b = "$val31
 
+val32=`expr $a - $b`
+echo "$a - $b = "$val32
+
+val33=`expr $a \* $b`
+echo "$a * $b = "$val33
+
+val34=`expr $a / $b`
+echo "$a / $b = "$val34
+
+val35=`expr $a % $b`
+echo "$a % $b = "$val35
+
+
+
+#8.piemērs - operācijas ar konstantēm
+: <<'END'
+val21=`expr 2 + 3`
+echo "2 + 3 = "$val21
+
+val22=`expr 2 - 3`
+echo "2 - 3 = "$val22
+
+val23=`expr 2 \* 3`
+echo "2 * 3 = "$val23
+
+val24=`expr 2 / 3`
+echo "2 / 3 = "$val24
+
+val25=`expr 2 % 3`
+echo "2 % 3 = "$val25
+END
+
+
+: <<'END'# komentāra bloka sākums
 #7.piemeers
-#skaitliskaa_vertiba='expr 2 + 2'
-#echo "Summas vertiba: "$skaitliskaa_vertiba
-#echo "Summas vertiba: $skaitliskaa_vertiba"
+skaitliskaa_vertiba='expr 2 + 2'
+echo "Summas vertiba: "$skaitliskaa_vertiba
+echo "Summas vertiba: $skaitliskaa_vertiba"
 skaitliskaa_vertiba=`expr 2 + 2`
 echo "Summas vertiba: $skaitliskaa_vertiba"
 echo "Summas vertiba: "$skaitliskaa_vertiba
-#skaitliskaa_vertiba=exrp 2 + 2
-#echo "Summas vertiba: $skaitliskaa_vertiba
-#echo "Summas vertiba: $skaitliskaa_vertiba"
-
+skaitliskaa_vertiba=exrp 2 + 2
+echo "Summas vertiba: $skaitliskaa_vertiba
+echo "Summas vertiba: $skaitliskaa_vertiba"
+END # komentāra bloka beigas
 
 #6.piemeers
 #echo $*
