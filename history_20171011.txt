@@ -41,3 +41,49 @@
    41  nano git-upload
    42  nano git-upload 
    43  history > history_20171011.txt
+   44  ./git-upload
+   45  nano shell_examples.sh 
+   46  a=5
+   47  nano shell_examples.sh 
+   48  ./shell_examples.sh 5 10
+   49  nano shell_examples.sh 
+   50  ./shell_examples.sh 55 66
+   51  nano shell_examples.sh 
+   52  ./shell_examples.sh 55 66
+   53  nano shell_examples.sh 
+   54  ./shell_examples.sh 
+   55  nano shell_examples.sh 
+   56  ./shell_examples.sh 
+   57  nano sh
+   58  nano shell_examples.sh 
+   59  sh shell_examples.sh 
+   60  nano shell_examples.sh 
+   61  sh shell_examples.sh 
+   62  nano shell_examples.sh 
+   63  sh shell_examples.sh 
+   64  nano shell_examples.sh 
+   65  ./shell_examples.sh 1 56
+   66  nano shell_examples.sh 
+   67  ./shell_examples.sh 55 42
+   68  ./shell_examples.sh 1
+   69  ./shell_examples.sh  313 3133331313131313131949259259592925925925952399
+   70  ./shell_examples.sh  33133 133
+   71  nano dialogs.sh
+   72  ./dialogs.sh
+   73  ./dialogs.sh 33 33
+   74  chmod dialogs.sh 744
+   75  chmod
+   76  ls -la
+   77  chmod
+   78  chmod 744 dialogs.sh
+   79  ./dialogs.sh
+   80  ./dialogs.sh 44 44
+   81  ls -la
+   82  ./dialos.sh
+   83  ./dialogs.sh
+   84  nano dialogs.sh 
+   85  /.dialos.sh
+   86  ./dialogs.sh 
+   87  nano dialogs.sh 
+   88  nano git-upload 
+   89  history > history_20171011.txt

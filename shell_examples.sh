@@ -1,21 +1,47 @@
 #!/bin/bash
+
+#10.piemērs - operācijas ar argumentiem
+if [ $# == 2 ]
+# ja (if) skriptam nodoto argumentu skaits ($#) ir vienāds (== ar$2)
+then
+# tad tiek izpildītas visas sekojošās darbības līdz fi
+a=$1
+b=$2
+val41=`expr $a + $b`
+echo "$a + $b = "$val41
+
+val42=`expr $a - $b`
+echo "$a - $b = "$val42
+
+val43=`expr $a \* $b`
+echo "$a * $b = "$val43
+
+val44=`expr $a / $b`
+echo "$a / $b = "$val44
+
+val45=`expr $a % $b`
+echo "$a % $b = "$val45
+# šai vietai
+fi
+
+
 #9.piemērs - operācijas ar mainīgajiem
-a=56
-b=32
-val31=`expr $a + $b`
-echo "$a + $b = "$val31
+#a=56
+#b=32
+#val31=`expr $a + $b`
+#echo "$a + $b = "$val31
 
-val32=`expr $a - $b`
-echo "$a - $b = "$val32
+#val32=`expr $a - $b`
+#echo "$a - $b = "$val32
 
-val33=`expr $a \* $b`
-echo "$a * $b = "$val33
+#val33=`expr $a \* $b`
+#echo "$a * $b = "$val33
 
-val34=`expr $a / $b`
-echo "$a / $b = "$val34
+#val34=`expr $a / $b`
+#echo "$a / $b = "$val34
 
-val35=`expr $a % $b`
-echo "$a % $b = "$val35
+#val35=`expr $a % $b`
+#echo "$a % $b = "$val35
 
 
 
@@ -38,7 +64,7 @@ echo "2 % 3 = "$val25
 END
 
 
-: <<'END'# komentāra bloka sākums
+: <<'END'
 #7.piemeers
 skaitliskaa_vertiba='expr 2 + 2'
 echo "Summas vertiba: "$skaitliskaa_vertiba
@@ -49,7 +75,7 @@ echo "Summas vertiba: "$skaitliskaa_vertiba
 skaitliskaa_vertiba=exrp 2 + 2
 echo "Summas vertiba: $skaitliskaa_vertiba
 echo "Summas vertiba: $skaitliskaa_vertiba"
-END # komentāra bloka beigas
+END
 
 #6.piemeers
 #echo $*
