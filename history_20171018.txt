@@ -1,0 +1,40 @@
+    1  VirtualBox --startvm XP
+    2  git clone https://github.com/grantinsa/DMI.git
+    3  nano dialogs.sh
+    4  nano dialogs2.sh
+    5  nano a_vs_b.sh
+    6  chmod 744 a_vs_b.sh 
+    7  ./a_vs_b.sh 
+    8  nano a_vs_b.sh 
+    9  ./a_vs_b.sh 
+   10  nano a_vs_b.sh 
+   11  ./a_vs_b.sh 
+   12  nano a_vs_b.sh 
+   13  ./a_vs_b.sh 
+   14  nano a_vs_b.sh 
+   15  ./a_vs_b.sh 
+   16  nano a_vs_b.sh 
+   17  ./a_vs_b.sh 
+   18  nano a_vs_b.sh 
+   19  ./a_vs_b.sh 
+   20  nano ./a_vs_b.sh 
+   21  ./a_vs_b.sh 
+   22  nano a_vs_b.sh 
+   23  ./a_vs_b.sh 
+   24  nano ./a_vs_b.sh 
+   25  ./a_vs_b.sh 
+   26  nano a_vs_b.sh 
+   27  cp a_vs_b.sh a_vs_b_vs_c.sh
+   28  nano a_vs_b_vs_c.sh 
+   29  ./a_vs_b_vs_c.sh 
+   30  nano a_vs_b_vs_c.sh 
+   31  ./a_vs_b_vs_c.sh 
+   32  nano a_vs_b_vs_c.sh 
+   33  git-upload
+   34  git6i0qw025r0125125jo -
+   35  5
+   36  history > history_20171018.txt
+   37  cd dmi
+   38  ls
+   39  cd DMI/
+   40  history > history_20171018.txt
