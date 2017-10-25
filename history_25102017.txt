@@ -1,0 +1,126 @@
+    1  VirtualBox --startvm XP
+    2  git clone https://github.com/grantinsa/DMI
+    3  ls
+    4  cd dmi
+    5  cd DMI
+    6  ls
+    7  nano if.sh
+    8  chmod 744 if.sh
+    9  ls
+   10  ./if.sh 10
+   11  ./if.sh -10
+   12  ./if.sh 4
+   13  ./if.sh -4
+   14  ./if.sh 0
+   15  nano if.sh
+   16  ./if.sh 10
+   17  ./if.sh -10
+   18  nano if.sh 
+   19  ./if.sh 10
+   20  ./if.sh -10
+   21  ./if.sh 0
+   22  ./if.sh 10 10
+   23  ./if.sh 10
+   24  ./if.sh -10
+   25  ./if.sh nano if.sh 
+   26  nano if.sh 
+   27  ./if.sh 10
+   28  ./if.sh -10
+   29  ./if.sh 0
+   30  nano if.sh 
+   31  ./if.sh 0
+   32  ===========================
+   33  nano if.sh 
+   34  nano abc.sh
+   35  ./if abc.sh 
+   36  abc.sh
+   37  ./if ab.sh
+   38  ./if abc.sh
+   39  chmod 744 abc.sh
+   40  ./if abc.sh 
+   41  nano abc.sh
+   42  ./abc.sh
+   43  4224
+   44  24
+   45  2442
+   46  42
+   47  ./abc.sh 3 4 9
+   48  nano abc.sh
+   49  seq -t 9 4 33
+   50  swq 9 4 33
+   51  nano ab.csh
+   52  nano abc.sh
+   53  ./abc.sh 3 2 9
+   54  ./abc.sh
+   55  nano abc.sh
+   56  ./abc.sh 3 4 2
+   57  ./abc.sh
+   58  3
+   59  nano abc.sh
+   60  ./abc.sh
+   61  3
+   62  ./abc.sh 3 4 1
+   63  nano abc.sh
+   64  ./abc.sh
+   65  nano abc.sh
+   66  ./abc.sh
+   67  3 9 1 15 5
+   68  ./abc.sh 
+   69  9 
+   70  sh sort
+   71  ./abc.sh 
+   72  ./abc.sh 4 9 10 3 
+   73  nano abc.sh
+   74  nano array_loop.sh
+   75  chmod 744 array_loop.sh 
+   76  ./array_loop.sh 
+   77  ./array_loop.sh 1 2 5
+   78  ./array_loop.sh 4 5
+   79  nano shell_examples.sh 
+   80  nano array_loop.sh 
+   81  ./array_loop.sh 3 4 5 6
+   82  ./array_loop.sh 3 4 5
+   83  nano shell_examples.sh 
+   84  nano array_loop.sh 
+   85  ./array_loop.sh 3 6 9
+   86  nano array_loop.sh 
+   87  ./shell_examples.sh  39 3919 495 5 059 295 9035 5 -05 5 -3i 5-
+   88  ./array_loop.sh 924 94294 200 90 2402480 0248080  802804
+   89  ./array_loop.sh 4 5 5 2 74 2 5 5 52
+   90  nano array_loop.sh 
+   91  ./array_loop.sh 3 4 1 9
+   92  nano array_loop.sh 
+   93  ls
+   94  ./abc.sh
+   95  ./abc.sh 4 9 3
+   96  nano abc.sh
+   97  nano abc.sh 3 10 1
+   98  ./abc.sh 3 10 1
+   99  nano abc.sh
+  100  ./abc.sh 3 10 1
+  101  nano abc.sh
+  102  ./abc.sh 3 10 1
+  103  nano abc.sh
+  104  ./abc.sh 3 10 1
+  105  nano abc.sh 
+  106  ./abc.sh 3 10 1
+  107  nano abc.sh 
+  108  ./abc.sh 3 10 1
+  109  ./abc.sh 3101
+  110  nano abc.sh 
+  111  ./abc.sh 3 10 1 44 13 55 99 2
+  112  ./abc.sh 3 10 1 44 13 55 99 2 40 4 8 590 528 19 49 5 2 54 1 3
+  113  ./array_loop.sh 924 94294 200 90 2402480 0248080  802804
+  114  ./abc.sh 3 2 4 9 10 44 6 48 5 87 63 22
+  115  fs
+  116  ./abc.sh 3 2 4 9 10 44 6 48 5 87 63 22
+  117  ./abc.sh 3 1 4 9 5 50 1 48 49 40 7 999 0
+  118  ./abc.sh 40 4 492 48 41 1 3 5 55 0 99 104404 48488 4994 183 02055 829 29 13 48 59 49 0.5
+  119  nano abc.sh
+  120  ./abc.sh 3 39 19 3 9 0.5 0.1 0 181 1 99
+  121  dmi
+  122  ./git-upload 25102017
+  123  ls
+  124  git-upload 25102017
+  125  ./git-upload 25102017
+  126  history > history_25102017.txt
