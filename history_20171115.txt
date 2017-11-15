@@ -1,0 +1,41 @@
+    1  VirtualBox --startvm XP
+    2  cd DMI
+    3  ls
+    4  git-upload
+    5  ls -l
+    6  git-download
+    7  git clone https://github.com/grantinsa/DMI.git
+    8  cd DMI
+    9  cd python
+   10  cd PYTHON
+   11  nano sin_caur_summu_vers1.py
+   12  python sin_caur_summu_vers1.py 
+   13  nano sin_caur_summu_vers1.py
+   14  python sin_caur_summu_vers1.py 
+   15  nano sin_caur_summu_vers1.py 
+   16  python sin_caur_summu_vers1.py 
+   17  nano sin_caur_summu_vers1.py 
+   18  python sin_caur_summu_vers1.py 
+   19  nano sin_caur_summu_vers1.py 
+   20  python sin_caur_summu_vers1.py 
+   21  nano sin_caur_summu_vers1.py 
+   22  nano sin
+   23  nano sin_caur_summu_vers1.py 
+   24  python sin_caur_summu_vers1.py 
+   25  ''''''''''"''''''''"'''''''''''''''''''''''''''
+   26  python sin_caur_summu_vers1.py 
+   27  nano sin_caur_summu_vers1.py 
+   28  cp sin_caur_summu_vers1.py sin_caur_summu_vers2.py 
+   29  ls -l
+   30  nano sin_caur_summu_vers2.py
+   31  python sin_caur_summu_vers2.py
+   32  nano sin_caur_summu_vers2.py 
+   33  python sin_caur_summu_vers2.py 
+   34  cp sin_caur_summu_vers2.py sin_caur_summu_vers3.py
+   35  ls -l
+   36  nano sin_caur_summu_vers3.py
+   37  python sin_caur_summu_vers3.py
+   38  nano sin_caur_summu_vers3.py
+   39  python sin_caur_summu_vers3.py
+   40  cd ..
+   41  history > history_20171115.txt
