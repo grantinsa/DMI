@@ -1,0 +1,50 @@
+    1  VirtualBox --startvm XP
+    2  git clone https://github.com/grantinsa/DMI.git
+    3  ls -la
+    4  cd DMI
+    5  ls -l
+    6  cd PYTHON
+    7  ls -la
+    8  nano sin_caur_summu_vers3.py 
+    9  chmod 744 sin_caur_summu_vers3.py 
+   10  ./sin_caur_summu_vers3.py 
+   11  nano sin_caur_summu_vers3.py
+   12  ./sin_caur_summu_vers3.py 
+   13  nano sin_caur_summu_vers3.py
+   14  ./sin_caur_summu_vers3.py 
+   15  nano sin_caur_summu_vers3.py
+   16  ./sin_caur_summu_vers3.py 
+   17  nano sin_caur_summu_vers3.py
+   18  ./sin_caur_summu_vers3.py 
+   19  nano sin_caur_summu_vers3.py
+   20  ./sin_caur_summu_vers3.py 
+   21  nano sin_caur_summu_vers3.py
+   22  ./sin_caur_summu_vers3.py 
+   23  nano sin_caur_summu_vers3.py
+   24  ./sin_caur_summu_vers3.py 
+   25  nano sin_caur_summu_vers3.py 
+   26  cp sin_caur_summu_vers3.py sin_caur_summu_vers4.py
+   27  nano sin_caur_summu_vers4.py 
+   28  nano sin_caur_summu_vers4.py
+   29  python sin_caur_summu_vers4.py
+   30  cp sin_caur_summu_vers4.py sin_caur_summu_vers5.py
+   31  nano sin_caur_summu_vers5.py 
+   32  python sin_caur_summu_vers5.py
+   33  nano sin_caur_summu_vers5.py 
+   34  python sin_caur_summu_vers5.py 5252959259
+   35  python sin_caur_summu_vers5.py 
+   36  python sin_caur_summu_vers5.py 52520529052509
+   37  nano sin_caur_summu_vers5.py
+   38  cp sin_caur_summu_vers5.py sin_caur_summu.py
+   39  nano sin_caur_summu.py
+   40  python sin_caur_summu.py
+   41  nano sin_caur_summu.py
+   42  python sin_caur_summu.py
+   43  nano sin_caur_summu.py
+   44  python sin_caur_summu.py
+   45  nano sin_caur_summu.py
+   46  python sin_caur_summu.py
+   47  nano sin_caur_summu.py
+   48  history > history20171122.txt
+   49  cd ..
+   50  history > history20171122.txt
