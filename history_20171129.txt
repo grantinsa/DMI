@@ -1,0 +1,16 @@
+    1  VirtualBox --startvm XP
+    2  git clone https://github.com/grantinsa
+    3  git clone https://github.com/grantinsa/DMI
+    4  cd DMI
+    5  cd PYTHON
+    6  ls -la
+    7  idle &
+    8  ls -l
+    9  cat python_diary_20171129.py 
+   10  idle &
+   11  ..
+   12  cd dmi
+   13  /..
+   14  cd..
+   15  cd ..
+   16  history > history_20171129.txt
