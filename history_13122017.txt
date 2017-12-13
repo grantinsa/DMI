@@ -1,0 +1,11 @@
+    1  VirtualBox --startvm XP
+    2  git clone https://github.com/grantinsa
+    3  https://github.com/grantinsa/DMI
+    4  git clone https://github.com/grantinsa/DMI
+    5  cd DMI
+    6  cd PYTHON
+    7  idle
+    8  idle &
+    9  firefox
+   10  cd ..
+   11  history > history_13122017.txt
