@@ -1,0 +1,69 @@
+    1  �nano index.html
+    2  nano
+    3  nano index.html
+    4  #!/bin/bash
+    5  echo "Lietotāj, lūdzu, ievadi skaitļus: "
+    6  read input
+    7  echo "Lietotāj, lūdzu, ievadi skaitļus: "
+    8  read input
+    9  sort=($(printf "%s\n" "${a[@]}" | sort -n))
+   10  echo "Skaitļi augošā secībā: "${sort[@]}
+   11  echo "Lielākais skaitlis ir " ${sort[n-1]}
+   12  echo "Mazākais skaitlis ir " ${sort[0]}
+   13  summa=0
+   14  k=0
+   15  while (( $k < $n )); do summa=`expr $summa + ${sort[$k]}`; k=`expr $k + 1`; done
+   16  vsk=`expr $summa / $n`
+   17  dsk=`expr $summa % 1$n`
+   18  echo "Vidējā vērtība ir " $vsk "." $dsk
+   19  if (( n % 2 == 1 )); then echo -n "Mediāna ir "; echo "${sort[($n-1)/2]}" | bc; else echo -n "Mediāna ir "; echo "scale=2;(${sort[$n/2]} + ${sort[$n/2-1]})/2" |bc; fi
+   20  k=0
+   21  sk1=${sort[$k]}
+   22  n1=1
+   23  sk2=$sk1
+   24  n2=$n1
+   25  while (( $k < $n )); do k=`expr $k + 1`; if [[ "$sk1" == "${sort[k]}" ]]; then 1=`expr $n1 + 1`; else 1=1; fi;  if (( $n1 > $n2)); then 2=$n1; fi; done
+   26  echo "Moda:" $sk2sdsad
+   27  goto first.sh
+   28  pirmais.sh
+   29  nano pirmais.sh
+   30  ./pirmais.sh
+   31  chmod 744 pirmais.sh
+   32  ./pirmais.sh
+   33  nano pirmais.sh
+   34  ./pirmais.sh
+   35  ./git-upload
+   36  git-clone
+   37  git-status
+   38  git-clone https://github.com/grantinsa/DMI.git
+   39  $ git init
+   40  git init
+   41  git add .
+   42  git clone
+   43  git clone https://github.com/grantinsa/DMI.git
+   44  cd DMI
+   45  cd FINAL
+   46  mkdir FINAL
+   47  cd FINAL
+   48  nano pirmais.sh
+   49  ./pirmais.sh
+   50  chmod 744 pirmais.sh
+   51  ./pirmais.sh
+   52  ./git-upload 26012018
+   53  ./git-upload
+   54  git-upload
+   55  git push
+   56  git-push https://github.com/grantinsa/DMI.git
+   57  git push https://github.com/grantinsa/DMI.git
+   58  /.
+   59  /ls
+   60  ls
+   61  sls
+   62  ls
+   63  git push origin master
+   64  git-upload
+   65  git upload
+   66  ./git-upload
+   67  ./git-upload 2018
+   68  ./git-upload 2121212
+   69  history > history_201801
